@@ -1,7 +1,7 @@
 <!-- jQuery 2.1.4 -->
-<script src="<?php echo base_url(); ?>assets/admin/plugins/jQuery/jQuery-2.1.4.min.js"></script>
+<script src="<?php echo base_url(); ?>assets/common/jQuery/jQuery-2.1.4.min.js"></script>
 <!-- Bootstrap 3.3.5 -->
-<script src="<?php echo base_url(); ?>assets/bootstrap/js/bootstrap.min.js"></script>
+<script src="<?php echo base_url(); ?>assets/common/bootstrap/js/bootstrap.min.js"></script>
 <!-- jasny-bootstrap -->
 <script src="<?php echo base_url(); ?>assets/admin/plugins/jasny-bootstrap/js/jasny-bootstrap.min.js"></script>
 
@@ -14,14 +14,14 @@
 
 <!-- AngularJs -->
 <script data-require="angular.js@*" data-semver="1.3.15"
-        src="<?php echo base_url(); ?>assets/admin/plugins/angular-1.4.6/angular.min.js"></script>
+        src="<?php echo base_url(); ?>assets/common/angular-1.4.6/angular.min.js"></script>
 <!-- AngularJs - Bootstrap -->
 <script data-require="ui-bootstrap@*" data-semver="0.12.1"
-        src="<?php echo base_url(); ?>assets/admin/plugins/angular-1.4.6/ui-bootstrap-tpls-0.12.1.min.js"></script>
+        src="<?php echo base_url(); ?>assets/common/angular-1.4.6/ui-bootstrap-tpls-0.12.1.min.js"></script>
 <!-- AngularJs - Routes -->
-<script src="<?php echo base_url(); ?>assets/admin/plugins/angular-1.4.6/angular-route.min.js"></script>
+<script src="<?php echo base_url(); ?>assets/common/angular-1.4.6/angular-route.min.js"></script>
 <!-- AngularJs - sanitize -->
-<script src="<?php echo base_url(); ?>assets/admin/plugins/angular-1.4.6/angular-sanitize.min.js"></script>
+<script src="<?php echo base_url(); ?>assets/common/angular-1.4.6/angular-sanitize.min.js"></script>
 
 
 <!-- DataTables -->
