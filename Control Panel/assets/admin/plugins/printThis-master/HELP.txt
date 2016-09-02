@@ -1,0 +1,19 @@
+I prefer this one, I have tested it and its working
+
+https://github.com/jasonday/printThis
+
+$("#mySelector").printThis();
+
+or
+
+$("#mySelector").printThis({
+*      debug: false,              * show the iframe for debugging
+*      importCSS: true,           * import page CSS
+*      printContainer: true,      * grab outer container as well as the contents of the selector
+*      loadCSS: "path/to/my.css", * path to additional css file
+*      pageTitle: "",             * add title to print page
+*      removeInline: false        * remove all inline styles from print elements
+*  });
+
+
+Batman Assault on Arkham online
